@@ -2,7 +2,7 @@
 
 ![Horizon Landing Page](public/hero-dashboard.png)
 
-## 🚀 [Live Demo](https://horizon-landing-demo.vercel.app)
+## 🚀 [Live Demo](https://modern-landingpagednzdev.netlify.app/)
 
 A modern, responsive landing page with smooth animations and scroll effects. This demo showcases best practices for creating engaging web experiences with Next.js and Framer Motion.
 
@@ -46,8 +46,7 @@ A modern, responsive landing page with smooth animations and scroll effects. Thi
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/horizon-landing.git
-   cd horizon-landing
+   git [clone https://github.com/yourusername/horizon-landing.git](https://github.com/dnx01/Modern-LandingPage)
    \`\`\`
 
 2. Install dependencies:
@@ -94,7 +93,7 @@ The landing page is fully responsive and optimized for:
 
 This project can be easily deployed to Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fhorizon-landing)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2FModern-LandingPage)
 
 ## 📄 License
 
@@ -111,8 +110,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📬 Contact
 
 For any questions or feedback, please reach out to:
-- Email: contact@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: dnz@myself.com
+- Twitter: [@dnzcode](https://x.com/dnzcode)
 
 ---
 
