@@ -89,12 +89,6 @@ The landing page is fully responsive and optimized for:
 - Desktops (1024px and up)
 - Large screens (1280px and up)
 
-## 🌐 Deployment
-
-This project can be easily deployed to Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdnx01%2FModern-LandingPage)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
